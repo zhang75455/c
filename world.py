@@ -1,2 +1,2 @@
 print "hello world!"
-print "hello python"
+print "hello 1802"
